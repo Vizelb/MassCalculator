@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mass Calculator</string>
+    <string name="enter_molecular_mass_1">Enter Mr 1</string>
+    <string name="enter_molecular_mass_2">Enter Mr 2</string>
+    <string name="enter_ratio_1">Enter Ratio 1 (x)</string>
+    <string name="enter_ratio_2">Enter Ratio 2 (y)</string>
+    <string name="enter_total_mass">Enter Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="mass_first">Mr1:</string>
+    <string name="mass_second">Mr2:</string>
+    <string name="formula_in_literal">Mr1 * x + Mr2 * y = Weight</string>
+    <string name="formula_in_digital">Mr1 * x + Mr2 * y = Weight</string>
+</resources>
